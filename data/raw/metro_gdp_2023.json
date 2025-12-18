@@ -1,0 +1,12 @@
+{
+  "nyc": {
+    "name": "New York-Newark-Jersey City MSA",
+    "gdp_billion_2023": 1751,
+    "source": "BEA Regional Economic Accounts, 2023"
+  },
+  "la": {
+    "name": "Los Angeles-Long Beach-Anaheim MSA",
+    "gdp_billion_2023": 1048,
+    "source": "BEA Regional Economic Accounts, 2023"
+  }
+}

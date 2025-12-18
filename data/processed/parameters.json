@@ -1,0 +1,21 @@
+{
+  "A": 25.511482,
+  "gamma": 0.5709537724526568,
+  "delta": 0.034580091015901655,
+  "alpha": 0.47,
+  "g_0": 0.028131690433188722,
+  "eta_tau": 1.0,
+  "eta_c": 0.5,
+  "kappa": 0.3,
+  "beta_s": 0.02,
+  "beta_tau": 0.01,
+  "beta_c": 0.005,
+  "theta": 0.00267,
+  "phi": 2.0,
+  "CO2_0": 369.70666666666665,
+  "G_0": 48.4256856280522,
+  "E_0": 25.511482,
+  "calibration_period": "2000-2025",
+  "data_source": "NOAA + Global Carbon Budget + World Bank",
+  "calibration_date": "2025-12-17"
+}
